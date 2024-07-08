@@ -1,1 +1,5 @@
+altair==4
 streamlit
+ibm_watson
+requests
+pandas
