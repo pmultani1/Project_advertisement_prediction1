@@ -1,10 +1,7 @@
-# 🎈 Blank app template
+### App to predict the success or chances of Advertisement clicks from customer data and demographics. 
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
+#Following steps were followed to deploy the IBM Watson machine learning model based app on Streamlit using Github repository.
+ Dataset used for ML model is added in the repository.
 
 1. Install the requirements
 
